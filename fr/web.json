@@ -1,0 +1,19 @@
+{
+  "layout": "détails techniques",
+  "tags": [
+    "la toile"
+  ],
+  "section": "la toile",
+  "kain": "01",
+  "eyebrow": "Adapter le Web",
+  "resources": [
+    {
+      "title": "web.dev",
+      "url": "https://web.dev/"
+    },
+    {
+      "title": "Développeur Chrome",
+      "url": "https://developer.chrome.com/"
+    }
+  ]
+}
