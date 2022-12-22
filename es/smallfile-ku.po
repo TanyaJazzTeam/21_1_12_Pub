@@ -8,7 +8,7 @@ msgstr "AMPERIO"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgstr "A screenshot showing amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
@@ -28,7 +28,7 @@ msgstr "Conferencia AMP 2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "AMP Contributor Summit 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
@@ -44,7 +44,7 @@ msgstr "Especificación HTML de AMP"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr ""
+msgstr "AMP Overview"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
