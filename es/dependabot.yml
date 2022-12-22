@@ -1,17 +1,18 @@
 ---
 version: 2
 updates:
-- directory: "/"
+- package-ecosystem: npm
+  directory: "/"
   schedule:
     interval: mensual
   ignore:
   - dependency-name: observación*
     update-types:
-    - 
+    - version-update:semver-major
     - 111
   - dependency-name: búsqueda de nodo
     update-types:
-    - 
+    - 'actualización de versión: semver-major'
   - dependency-name: Ava
     update-types:
     - 'actualización de versión: semver-major'
@@ -20,7 +21,7 @@ updates:
     - 'actualización de versión: semver-major'
   - dependency-name: unist-*
     update-types:
-    - 
+    - 'actualización de versión: semver-major'
 - package-ecosystem: npm
   directory: "/funciones"
   schedule:
